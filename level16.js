@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De ser fram emot att träffa sin mormor.'
+      img: 'Están deseando ver a su abuela.'
     },
     {
       name: '2',

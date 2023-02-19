@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Snälla, städa upp det här rummet.'
+      img: 'Ordena esta habitación, por favor.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jag söker min kudde.'
+      img: 'Busco mi almohada.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Låt oss klä upp våra dockor.'
+      img: 'Vamos a vestir nuestras muñecas.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vad har dockan på sig?'
+      img: '¿Qué lleva la muñeca?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Dockan har blå kalsonger, gröna byxor, gul t-shirt, små skor och en grön jacka.'
+      img: 'La muñeca tiene calzoncillos azules, pantalones verdes, camiseta amarilla, zapatitos y una chaqueta verde.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Du är så vacker i den här klänningen.'
+      img: 'Te ves tan hermosa con este vestido.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hon är klädd i en röd kjol, vita trosor, blå strumpbyxor, en vit blus och en grön kavaj.'
+      img: 'Lleva falda roja, calzas blancas, pantimedias azules, blusa blanca y chaqueta verde.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'De ska ut på en resa idag.'
+      img: 'Ellos van de viaje hoy.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De behöver packa en massa saker.'
+      img: 'Ellos necesitan empacar muchas cosas.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jag vill inte gå upp.'
+      img: 'No quiero levantarme.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Du tar på dig dina träningsskor och du är redo att gå.'
+      img: 'Te pones las zapatillas y estás listo para ir.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hela familjen åker till landet idag.'
+      img: 'Toda la familia se va al campo hoy.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag ska göra ett te till dig.'
+      img: 'Te haré un té.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Han har ont i halsen och huvudvärk.'
+      img: 'Tiene dolor de garganta y dolor de cabeza.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'De har alla ont i magen.'
+      img: 'Todos tienen dolor de barriga'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vad är det med mig?'
+      img: '¿Que pasa con migo?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vi måste stanna hemma.'
+      img: 'Debemos quedarnos en casa.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag vill inte bli förkyld.'
+      img: 'No quiero coger un resfriado.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jag fortsätter att äta mycket frukt och grönsaker och dricka varmt te med citron och honung.'
+      img: 'Sigo comiendo muchas frutas y verduras y tomando té caliente con limón y miel.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Torka näsan med en näsduk.'
+      img: 'Límpiate la nariz con un pañuelo.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Kom tillsammans med mig.'
+      img: 'Ven conmigo.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Du kan hjälpa mig om du vill.'
+      img: 'Puedes ayudarme si quieres.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hon kommer tillbaka på eftermiddagen.'
+      img: 'Regresará por la tarde.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag vill titta på tv på kvällen.'
+      img: 'Quiero ver la televisión por la noche.'
     }
   ]
 
