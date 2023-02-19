@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hur kan jag hjälpa dig?'
+      img: "¿Como puedo ayudarte?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Kan du titta på bordet?'
+      img: "¿Puedes mirar la mesa?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det låg under bordet.'
+      img: 'Estaba debajo de la mesa.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jag trodde att det låg på byrån eller vid stolen.'
+      img: 'Pensé que estaba en la cómoda o junto a la silla.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jag bygger en legobil.'
+      img: "Estoy construyendo un coche de lego."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Titta på denna lilla bilden.'
+      img: 'Mira este pequeño dibujo.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Det finns massor av jordgubbar, körsbär, hallon och vindruvor.'
+      img: 'Hay muchas fresas, cerezas, frambuesas y uvas.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Päronen och aprikoserna är inte mogna ännu.'
+      img: 'Las peras y los albaricoques aún no están maduros.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Här är din tallrik, gaffel, kopp och sked.'
+      img: 'Aquí está tu plato, tenedor, taza y cuchara.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Är det här din väska eller inte?'
+      img: '¿Este es tu bolso o no?'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Min docka har stora blå ögon och långt hår.'
+      img: 'Mi muñeca tiene grandes ojos azules y cabello largo.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Låt oss ta en sax och klippa ut ett litet hjärta.'
+      img: "Tomemos un par de tijeras y cortemos un pequeño corazón."
     }
   ]
 

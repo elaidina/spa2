@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag vill bli lärare.'
+      img: 'Quiero convertirme en maestro.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jag vill lära barn.'
+      img: 'Quiero enseñar a los niños.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Hon vill bli läkare.'
+      img: 'Ella quiere ser doctora.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hennes dröm är att läka människor.'
+      img: 'Su sueño es curar a la gente.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Kan du köra bil?'
+      img: '¿Puedes conducir un coche?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ja, jag är en bra förare.'
+      img: 'Sí, soy un buen conductor.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hur många bilar har du?'
+      img: '¿Cuántos coches tienes?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jag har två bilar och tre cyklar.'
+      img: 'Tengo dos autos y tres bicicletas.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Kom och spela kort med mig.'
+      img: 'Ven a jugar a las cartas conmigo.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jag skulle hellre spela basket.'
+      img: 'Preferiría jugar al baloncesto.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Är du bra på att spela fotboll?'
+      img: '¿Eres bueno para jugar al fútbol?'
     },
     {
       name: '12',
@@ -95,10 +95,9 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Inte alls.'
+      img: 'Para nada.'
     }
   ]
-
   cardArray.sort(() => 0.5 - Math.random())
 
   const grid = document.querySelector('.grid')

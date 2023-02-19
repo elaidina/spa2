@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Lima fast ögonen, näsan och munnen på masken.'
+      img: 'Pega los ojos, la nariz y la boca a la máscara.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Min klänning är för kort och säckig.'
+      img: 'Mi vestido es demasiado corto y holgado.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag står i mitten av cirkeln.'
+      img: 'Me paro en el medio del círculo.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Sätt på dig dina skor.'
+      img: 'Ponte los zapatos.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ta hand om dig själv.'
+      img: 'Cuídate.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Bor du i stan eller på landet?'
+      img: '¿Vives en la ciudad o en el campo?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vad ser du?'
+      img: '¿Que ves?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jag ser en ankunge, några ungar, en hund och en katt.'
+      img: 'Veo un patito, algunos pollitos, un perro y un gato.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Vilken färg har den katten?'
+      img: '¿De qué color es ese gato?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Katten är svart.'
+      img: 'El gato es negro.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag gillar chokladglass.'
+      img: 'Me gusta el helado de chocolate.'
     },
     {
       name: '12',
@@ -95,9 +95,10 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag gillar att höra historier.'
+      img: 'Me gusta escuchar historias.'
     }
   ]
+
 
   cardArray.sort(() => 0.5 - Math.random())
 

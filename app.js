@@ -1,13 +1,13 @@
 document.addEventListener('DOMContentLoaded', () => {
   //card options
-  const cardArray = [
+  const cardArray =  [
     {
       name: '1',
       img: 'What´s your name?'
     },
     {
       name: '1',
-      img: 'Vad heter du?'
+      img: "¿Cómo te llamas?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hur mår du?'
+      img: "¿Cómo estás?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag mår bra.'
+      img: "Estoy bien."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vad är detta?'
+      img: "¿Qué es esto?"
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Var är du?'
+      img: "¿Dónde estás?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag är hemma.'
+      img: "Estoy en casa."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vart ska du?'
+      img: "¿Adónde vas?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jag är så exalterad!'
+      img: "¡Estoy tan emocionada!"
     },
     {
       name: '9',
@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hur gammal är du?'
+      img: "¿Cuántos años tiene?"
     },
     {
       name: '10',
-      img: 'Jag är 7 år gammal.'
+      img: "Tengo 7 años"
     },
     {
       name: '10',
@@ -83,11 +83,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Har du syster eller bror?'
+      img: 'Do you have a sister or brother?'
     },
     {
       name: '11',
-      img: 'Have you got a sister or brother?'
+      img: "¿Tienes hermana o hermano?"
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hur är vädret idag?'
+      img: "¿Cómo está el tiempo hoy?"
     }
   ]
 

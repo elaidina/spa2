@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Nej det har jag inte.'
+      img: "No, no tengo."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Solen skiner och det är varmt.'
+      img: "El sol brilla y hace calor."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vad skulle du vilja göra?'
+      img: "¿Que te gustaría hacer?"
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jag skulle vilja gå ut.'
+      img: "Me gustaría salir."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ursäkta mig vem är du?'
+      img: "¿Disculpa, quién eres?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Hej, jag heter Tom.'
+      img: "Hola, mi nombre es Tom."
     },
     {
       name: '7',
@@ -55,11 +55,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Är Tom en bra vän?'
+      img: "¿Es Tom un buen amigo?"
     },
     {
       name: '8',
-      img: 'Nej det är det inte.'
+      img: "No, no es."
     },
     {
       name: '8',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Den långa pojken är min vän.'
+      img: "Ese chico alto es mi amigo"
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Kom hit och sätt dig ner.'
+      img: "Ven aquí y siéntate."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Misha, snälla låna mig din penna."'
+      img: "Misha, por favor, préstame tu bolígrafo."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Låt oss spela boll.'
+      img: "Juguemos a la pelota."
     }
   ]
 
