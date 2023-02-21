@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Vi närmar oss skogen.'
+      img: 'Nos acercamos al bosque.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vi kan inte åka in i skogen med bil.'
+      img: 'No podemos ir en coche al bosque.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag trivs väldigt bra här.'
+      img: 'Me gusta mucho estar aquí.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi kan leka på ängen.'
+      img: 'Podemos jugar en el prado.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Titta, det finns en fjäril på den blomman.'
+      img: 'Mira, hay una mariposa en esa flor.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vill du plocka svamp och jordgubbar?'
+      img: '¿Te gustaría recoger champiñones y fresas?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Min vän bor i ett hus nära floden.'
+      img: 'Mi amigo vive en una casa cerca del río.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Han leker med sin hund varje dag.'
+      img: 'Él juega con su perro todos los días.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tittar du ibland på hästar och kor på ängen?'
+      img: '¿Observas a veces caballos y vacas en el prado?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jag är rädd för den där stora hunden.'
+      img: 'Tengo miedo de ese perro grande.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag vill visa dig någonting.'
+      img: '"Quiero mostrarte algo.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vill du se gris och smågrisar?'
+      img: '¿Quieres ver a los cerdos y lechones?'
     }
   ]
 
