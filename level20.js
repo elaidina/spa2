@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag skulle vilja plocka några blommor till min mamma.'
+      img: 'Me gustaría recoger algunas flores para mi mamá.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Äpplena är mogna och runda.'
+      img: 'Las manzanas están maduras y redondas.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag hittade många presenter under granen.'
+      img: 'Encontré muchos regalos debajo del árbol de Navidad.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jag gillar inte att stryka.'
+      img: 'No me gusta planchar.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jag är för upptagen idag.'
+      img: 'Estoy demasiado ocupado hoy.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Titta omkring dig.'
+      img: 'Mira a tu alrededor.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hur många intressanta saker kan du se?'
+      img: '¿Cuántas cosas interesantes puedes ver?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jag känner massor av människor, djur, hus, träd och blommor.'
+      img: 'Conozco mucha gente, animales, casas, árboles y flores.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Men vet du allt?'
+      img: '¿Pero lo sabes todo?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Ingen vet allt.'
+      img: 'Nadie lo sabe todo.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Vissa vuxna kan många sånger för barn.'
+      img: 'Algunos adultos conocen muchas canciones para niños.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vissa människor kan inte reparera bilar.'
+      img: 'Algunas personas no pueden reparar autos.'
     }
   ]
 

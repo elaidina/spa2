@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag gillar sommaren för pappa köper massor av glass till mig.'
+      img: 'Me gusta el verano porque papá me compra muchos helados.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Skogen är väldigt färgglad på hösten.'
+      img: 'El bosque es muy colorido en otoño.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Åkrarna, kullarna, husen och träden är täckta av snö på vintern.'
+      img: 'Los campos, colinas, casas y árboles están cubiertos de nieve en invierno.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi gör en snögubbe med mina vänner.'
+      img: 'Hacemos un muñeco de nieve con mis amigos.'
     },
     {
       name: '5',
@@ -39,15 +39,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Min moster matar sina höns och ankor med majs och vete.'
+      img: 'Mi tía alimenta a sus gallinas y patos con maíz y trigo.'
     },
     {
       name: '6',
-      img: 'She pours some milk into ints bowl.'
+      img: 'She pours some milk into a bowl.'
     },
     {
       name: '6',
-      img: 'Hon häller lite mjölk i ints skål.'
+      img: 'Ella vierte un poco de leche en un tazón.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De små kattungarna är söta och roliga.'
+      img: 'Los pequeños gatitos son lindos y divertidos.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'De lägger alltid tassarna i skålen och spiller mjölken.'
+      img: 'Siempre ponen sus patas en el tazón y derraman la leche.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Min farbror är väldigt händig.'
+      img: 'Mi tío es muy hábil.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han planterar grönsaker och blommor.'
+      img: 'Él planta verduras y flores.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mormor gör väldigt god sylt och stuvade frukter.'
+      img: 'La abuela hace muy buena mermelada y compota de frutas.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag hjälper morfar att plocka äpplen, päron, vindruvor och plommon.'
+      img: 'Ayudo al abuelo a recoger manzanas, peras, uvas y ciruelas.'
     }
   ]
 
