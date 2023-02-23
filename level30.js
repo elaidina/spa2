@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hennes lillasyster ville också leka.'
+      img: 'Su hermana pequeña también quería jugar.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hon sparkade bollen högt upp i luften och Jamie sprang efter den.'
+      img: 'Pateó la pelota en el aire y Jamie corrió tras ella.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Tänk på dammen, snälla.'
+      img: 'Cuidado con el estanque, por favor'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Tyvärr rullade bollen in i en rabatt och vi sprang för att hitta den.'
+      img: 'Desafortunadamente, la pelota rodó hasta un macizo de flores y corrimos a buscarla.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Något surrade runt mitt ansikte.'
+      img: 'Algo zumbó alrededor de mi cara.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Det var ett bi.'
+      img: 'Era una abeja.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'När jag är stilla kanske det inte sticker mig.'
+      img: 'Cuando me quedo quieto, puede que no me pique.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Biet surrade av och jag var säker.'
+      img: 'La abeja salió volando y yo estaba a salvo.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jamie höll i ett litet rött bär.'
+      img: 'Jamie estaba sosteniendo una pequeña baya roja.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Du får aldrig äta något du hittar i trädgården.'
+      img: 'Nunca debes comer nada que encuentres en el jardín.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Det kan vara giftigt.'
+      img: 'Podría ser venenoso.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jamie öppnade munnen för att visa dem att han inte hade ätit några bär.'
+      img: 'Jamie abrió la boca para mostrarles que no había comido ninguna baya.'
     }
   ]
 

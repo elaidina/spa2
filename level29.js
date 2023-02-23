@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag har hittat dina bebisar.'
+      img: 'He encontrado a tus bebés.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Gör inte så!'
+      img: '¡No hagas eso!'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'När det är rött måste vi stanna och vänta tills det är grönt igen.'
+      img: 'Cuando está rojo, tenemos que parar y esperar hasta que esté verde de nuevo.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Håll hårt om mina händer.'
+      img: 'Agárrate fuerte a mis manos.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Det här är en mycket trafikerad väg.'
+      img: 'Esta es una calle muy transitada.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vi måste hitta en säker korsning.'
+      img: 'Debemos encontrar un cruce seguro.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Titta, det finns trafikljus.'
+      img: 'Mira, hay semáforos.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jag tryckte på knappen och snart stannade trafiken.'
+      img: 'Presioné el botón y pronto el tráfico se detuvo.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Den gröna mannen visade oss att vi borde korsa nu.'
+      img: 'El hombre verde nos mostró que debemos cruzar ahora.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han pipade för att skynda oss.'
+      img: 'Él pitó para darnos prisa.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hon var glad att se sin vän.'
+      img: 'Estaba contenta de ver a su amiga.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De spelade fotboll i trädgården.'
+      img: 'Jugaban al fútbol en el jardín.'
     }
   ]
 
