@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'På vägen hem gick de förbi en sötsaksaffär.'
+      img: 'En el camino a casa pasaron por una tienda de dulces.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jag skulle vilja ha lite sötsaker men jag vill inte ha tandvärk som Tom.'
+      img: 'Me gustarían algunos dulces, pero no quiero un dolor de muelas como el de Tom.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det finns andra läckra saker som är bättre för dig.'
+      img: 'Hay otras cosas sabrosas que son mejores para ti.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Så de köpte två knapriga äpplen av grönsakshandlaren.'
+      img: 'Así que compraron dos manzanas crujientes en el verdulero.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Sedan gick de till apoteket för att köpa nya tandborstar.'
+      img: 'Luego fueron a la farmacia a comprar cepillos de dientes nuevos.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Kemisten berättade för dem om att avslöja tabletter.'
+      img: 'El químico les habló de las tabletas reveladoras.'
     },
     {
       name: '7',

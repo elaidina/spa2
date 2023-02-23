@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Och ät eller drick inte i sängen.'
+      img: 'Y no comas ni bebas en la cama.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Inte ens vatten?'
+      img: '¿Ni siquiera agua?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Bara vatten.'
+      img: 'Solo agua.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Söta drycker kan skada dina tänder lika mycket som söt mat.'
+      img: 'Las bebidas dulces pueden dañar los dientes tanto como los alimentos dulces.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Kom tillbaka och träffa mig snart.'
+      img: 'Vuelve a verme pronto.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Innan de gick hem skrev receptionisten upp datumet för nästa besök.'
+      img: 'Antes de irse a casa, la recepcionista anotó la fecha de su próxima visita.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Den lille pojken försökte att inte gråta.'
+      img: 'El niño pequeño estaba tratando de no llorar.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Vad är det, Tom?'
+      img: '¿Qué pasa, Tom?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jag har tandvärk.'
+      img: 'Tengo dolor de dientes.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han äter för mycket sötsaker.'
+      img: 'Él come demasiados dulces.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Strunt i det.'
+      img: 'No importa.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Mrs White kommer att göra det bättre.'
+      img: 'La Sra. White lo hará mejor.'
     }
   ]
 
