@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: '"El niño salta sobre los charcos y tropieza.'
+      img: 'El niño salta sobre los charcos y tropieza.'
     },
     {
       name: '11',

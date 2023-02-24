@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: '"La niña puede abotonarse el suéter pero no puede subirse la cremallera de la chaqueta. '
+      img: 'La niña puede abotonarse el suéter pero no puede subirse la cremallera de la chaqueta. '
     },
     {
       name: '10',
