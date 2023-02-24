@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Glöm bara inte att hänga upp dina strumpor.'
+      img: 'Solo no olvides colgar tus medias.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vi lämnar en morot ute till dina renar.'
+      img: 'Dejaremos una zanahoria para tus renos.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Mamma kikade in för att se hur de hade det.'
+      img: 'Mami se asomó para ver cómo estaban.'
     },
     {
       name: '4',
@@ -31,11 +31,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Har de varit duktiga?'
+      img: '¿Han sido buenos?'
     },
     {
       name: '5',
-      img: 'She asked Father Christmas.'
+      img: 'Ella le preguntó a Papá Noel.'
     },
     {
       name: '5',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Så bra att de förtjänar en liten present att öppna när de kommer hem.'
+      img: 'Tan buenos que merecen un pequeño regalo para abrir cuando lleguen a casa.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Han tog fram en present till Tom ur en säck.'
+      img: 'Sacó un regalo para Tom de un saco.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Tack så mycket."'
+      img: 'Muchas gracias.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Så fort han var tillbaka i bilen öppnade han sin present.'
+      img: 'Tan pronto como estuvo de regreso en el auto, abrió su regalo.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jag har solglasögon!'
+      img: '¡Tengo gafas de sol!'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Han var mycket nöjd.'
+      img: 'Estaba muy contento.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det snöade mycket när han sov.'
+      img: 'Nevó mucho mientras dormía.'
     }
   ]
 

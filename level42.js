@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Så fort han kom hem provade han sin nya tandborste.'
+      img: 'Tan pronto como llegó a casa, probó su nuevo cepillo de dientes.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Michelle var väldigt upprymd.'
+      img: 'Michelle estaba muy emocionada.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det skulle snart vara jul, så hon skrev sina önskningar.'
+      img: 'Pronto sería Navidad, así que escribió sus deseos.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi tog på oss mössor, rockar, halsdukar och handskar för att det var kallt ute.'
+      img: 'Nos pusimos sombreros, abrigos, bufandas y guantes porque hacía frío afuera.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Det var många familjer som valde julgranar på Trädgårdscentret.'
+      img: 'Había muchas familias eligiendo árboles de Navidad en el Garden Centre.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vilket träd ska vi få?'
+      img: '¿Qué árbol tomaremos?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jag gillar den för den är verkligen stor.'
+      img: 'Me gusta ese porque es muy grande.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Den är för stor för att passa i vår bil.'
+      img: 'Es demasiado grande para caber en nuestro coche.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De kom överens om ett väldigt fint mindre träd.'
+      img: 'Estuvieron de acuerdo en un árbol más pequeño muy bonito.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Pappa hämtade en vagn till trädet.'
+      img: 'Papá trajo un carrito para el árbol.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Barnen hjälpte till att skjuta vagnen.'
+      img: 'Los niños ayudaron a empujar el tranvía.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De kunde välja två nya träddekorationer.'
+      img: 'Podrían elegir dos nuevas decoraciones para árboles.'
     }
   ]
 

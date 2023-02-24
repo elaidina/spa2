@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Bara tugga en halv tablett, skölj sedan munnen med vatten.'
+      img: 'Simplemente mastique media tableta, luego enjuáguese la boca con agua.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Han förklarade.'
+      img: 'Él explicó.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De delar av dina tänder som behöver rengöras mest kommer att bli rosa.'
+      img: 'Las partes de los dientes que más necesitan limpieza se volverán rosadas.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Vi skulle se roliga ut att gå till lekplatsen med rosa tänder.'
+      img: 'Nos veríamos raros yendo al patio de recreo con dientes rosados.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Kemisten skrattade.'
+      img: 'El químico se rió.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'När det inte finns någon rosa kvar, vet du att dina tänder är rena.'
+      img: 'Cuando no queda rosa, sabes que tus dientes están limpios.'
     }
   ]
 

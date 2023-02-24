@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hans strumpor hängde i slutet av hans säng.'
+      img: 'Sus medias estaban colgadas al final de su cama.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Mamma hade lagt en morot åt Rudolph på hans byrå.'
+      img: 'Mamá había puesto una zanahoria para Rodolfo en su cómoda.'
     },
     {
       name: '3',
