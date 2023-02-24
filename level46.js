@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag ska hålla mig vaken och säga hej till jultomten.'
+      img: 'Me voy a quedar despierto para saludar a Papá Noel.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'En timme senare sov han redan.'
+      img: 'Una hora después ya estaba dormido.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Han vaknade tidigt på morgonen.'
+      img: 'Se despertó temprano en la mañana.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Det var ganska mörkt, men han kunde se att hans strumpa var full av presenter.'
+      img: 'Estaba bastante oscuro, pero pudo ver que su calcetín estaba lleno de regalos.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vi ska campa med vår familj.'
+      img: 'Vamos a acampar con nuestra familia.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det är en lång bilresa.'
+      img: 'Es un viaje largo.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Äntligen kom vi fram till campingen.'
+      img: 'Por fin llegamos al campamento.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det var på en åker, bredvid en liten skog.'
+      img: 'Estaba en un campo, al lado de un pequeño bosque.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Tom hjälpte till att lasta av bilen.'
+      img: 'Tom ayudó a descargar el auto.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Att sätta upp tälten var först ett pussel.'
+      img: 'Montar las tiendas de campaña fue un rompecabezas al principio.'
     }
   ]
 

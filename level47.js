@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Men Tom kom snart ihåg hur man gör.'
+      img: 'Pero Tom pronto recordó cómo hacerlo.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jag gillar vårt tält bäst.'
+      img: 'Me gusta más nuestra tienda.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag gick för att hämta vatten.'
+      img: 'Fui a buscar agua.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Efter kvällsmat gick Tom för att utforska skogen.'
+      img: 'Después de la cena, Tom fue a explorar el bosque.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Någon har målat pilar på träden.'
+      img: 'Alguien ha estado pintando flechas en los árboles.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Om vi följer pilarna kommer de att ta oss på en bra promenad och föra oss tillbaka till lägret.'
+      img: 'Si seguimos esas flechas, nos llevarán a dar un buen paseo y nos traerán de vuelta al campamento.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De stora pojkarna var väldigt bullriga.'
+      img: 'Los chicos grandes eran muy ruidosos.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Låt oss gå och leka inne i vårt tält.'
+      img: 'Vamos a jugar dentro de nuestra carpa.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det är dags att ni två lägger er i era sovsäckar.'
+      img: 'Es hora de que ustedes dos se metan en sus sacos de dormir.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Tom låg nästan och sov i sin mysiga sovsäck när något träffade hans tält.'
+      img: 'Tom estaba casi dormido en su cómodo saco de dormir cuando algo golpeó su tienda.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Det gav honom en skräck.'
+      img: 'Le dio un susto.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De stygga pojkarna hade sparkat en fotboll hårt mot Toms tält.'
+      img: 'Los niños traviesos habían pateado una pelota de fútbol con fuerza en la tienda de Tom.'
     }
   ]
 
