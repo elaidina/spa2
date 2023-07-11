@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag bor i ett flerfamiljshus.'
+      img: 'I live in a block of flats.'
     },
     {
       name: '12',
@@ -133,9 +133,12 @@ document.addEventListener('DOMContentLoaded', () => {
     const optionOneId = cardsChosenId[0]
     const optionTwoId = cardsChosenId[1]
     
-    if(optionOneId == optionTwoId) {
+     if(optionOneId == optionTwoId) {
       cards[optionOneId].setAttribute('src', 'images/blank.png')
       cards[optionTwoId].setAttribute('src', 'images/blank.png')
+
+cards[optionOneId].parentElement.classList.remove("green")
+      
 
       
 
