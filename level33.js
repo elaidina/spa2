@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Salvé la vida de Tom..'
+      img: 'Salvé la vida de Tom.'
     },
     {
       name: '5',
